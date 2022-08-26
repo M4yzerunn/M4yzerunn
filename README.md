@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/M4zerunn">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=M4yzerunn&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4yzerunn&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=M4yzerunn&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4yzerunn&theme=dark&hide_border=false&&layout=compact"/>
     
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m4yzzzzi)
 [![social](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://Twitter.com/m4zerunn)
